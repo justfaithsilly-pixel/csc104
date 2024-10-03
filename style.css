@@ -1,0 +1,35 @@
+body{
+	background: -webkit-linear-gradient(right, #ff58a6, #ff8dc6, #ffc7e8);
+	background: -moz-linear-gradient(right, #f381a3, #fa719a, #f058a4);
+	background: -o-linear-gradient(right, #d84f8f, #d492c1, #ff8cc2);
+	background: linear-gradient(to right, #ff5fb7, #ff8bdc, #ff86e5);
+	color: #ff44c1;
+}
+
+h1{
+	color: #4e0017;
+	text-shadow:0 0 2px rgb(167, 0, 56);
+	font-family: times new roman, arial;
+}
+
+h2{
+	color: #960020;
+	text-shadow:0 0 2px rgb(151, 0, 33);
+	font-family: times new roman, arial;
+}
+
+h3{
+	color: #920013;
+	text-shadow:0 0 2px rgb(158, 0, 40);
+	font-family: times new roman, arial;
+}
+
+p{
+	color: #000000;
+	text-shadow:0 0 2px rgb(151, 0, 25);
+	font-family: times new roman, arial;
+}
+
+a:visited{
+	color: rgb(136, 0, 29);
+}
